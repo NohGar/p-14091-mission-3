@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad04a4f3-d663-4ee0-b02e-e32c3e1840d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/back/sbb/CommonUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/back/sbb/question/QuestionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/back/sbb/question/QuestionController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/back/sbb/question/QuestionRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/back/sbb/question/QuestionRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/back/sbb/question/QuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/back/sbb/question/QuestionService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/question_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/question_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/question_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/question_list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
