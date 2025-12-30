@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad04a4f3-d663-4ee0-b02e-e32c3e1840d7" name="Changes" comment="" />
+    <list default="true" id="ad04a4f3-d663-4ee0-b02e-e32c3e1840d7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +50,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/NohGar/p-14091-mission-2&quot;,
+    &quot;url&quot;: &quot;https://github.com/NohGar/p-14091-mission-3.git&quot;,
     &quot;accountId&quot;: &quot;d3f32af2-0ac8-42c5-838b-87f306b1e6d7&quot;
   }
 }</component>

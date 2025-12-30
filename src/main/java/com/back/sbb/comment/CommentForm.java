@@ -1,4 +1,4 @@
 package com.back.sbb.comment;
 
-public class CommnetForm {
+public class CommentForm {
 }
