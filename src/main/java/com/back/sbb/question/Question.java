@@ -36,4 +36,9 @@ public class Question {
 
     @ManyToMany
     Set<SiteUser> voter;
+
+    //추천 수 반환 메서드
+    public int getVoterCount() {
+        return voter.size();
+    }
 }
